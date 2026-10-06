@@ -2,6 +2,8 @@
 
 https://github.com/RyanDiemond/half-life/blob/main/Starbie.ino
 
+https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch
+
 https://github.com/RyanDiemond/half-life/blob/main/starbie-B_Cu.gbl
 
 https://github.com/RyanDiemond/half-life/blob/main/starbie-B_Mask.gbs
