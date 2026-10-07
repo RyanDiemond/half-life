@@ -1,9 +1,12 @@
 ![image alt](https://github.com/RyanDiemond/half-life/blob/main/Screenshot%202026-10-06%20193440.png?raw=true)
 
+The code:
 https://github.com/RyanDiemond/half-life/blob/main/Starbie.ino
 
+The schematic:
 https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch
 
+The PCB layers:
 https://github.com/RyanDiemond/half-life/blob/main/starbie-B_Cu.gbl
 
 https://github.com/RyanDiemond/half-life/blob/main/starbie-B_Mask.gbs
