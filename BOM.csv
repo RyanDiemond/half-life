@@ -10,17 +10,3 @@ PCB,8.70,1,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencil
 Total + tax,,$30 ,,
 
 
-
-
-
-Item, amount, cost each in $, Link,Notes
-XIAO ESP32 C3,1,$5 , https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,
-0.96 OLED,1,$4.43 ,https://www.ebay.com/itm/168756643423?_skw=0.96+Inch+OLED+Display+Module+SSD1306+128x64+Pixel+I2C+IIC+Self-Luminous+Screen+Board+White+Compatible+with+Arduino+Raspberry+Pi&var=468047971824&itmmeta=01M4K9D6NNFDRFJSND7TJNPRB2&hash=item274aae065f:g:MBsAAeSwFY5qwAuw&itmprp=enc%3AAQALAAABYCHNgUiiE%2FjQhlDTaMiAde8Vl6PYEWjH%2F4r1jpTthtXvEJ7JP3PDgVyMjQnzL%2FBGooT1i78jwjH3VDEOfvAwh1%2FCFbu5wvNsacW17x16q9vxudLfxFoLnweLea%2B4onX%2Bgp21US7X7KG90Hy9p7R%2FuFuC3dmDRJoKXDtGXaFVEWZ7K0iAAFHpE07xpd5rcZWu1%2F2w38Tupl1MtJqEeAJkOyqyALLDEynhR89Pu3eIl%2BaxLg%2FiNLLEBssnP1Fx47dvIB9yn3q9v%2F%2BwuStRrhc0NxCFbAk4Ikbe6YIPhQJmLV3m%2FlgTvCbJ8HO6r4AvyPzLy8hhn3RV2HQQ4CgrriGWcC53Ylu%2B1s4YQfK8L3jEjWa0Qv9CYv%2FAFoVJQAL9xfobIOg9R8RPcTk6mPQ7RdTZkTwY2uqrpPLJLEOOKaOJK78UjVTdC7bIN%2FFC7x%2BMRq00b6sE1IEdiDMU47fprfPF6aM%3D%7Ctkp%3ABk9SR4brtOmkaA,
-MPU6050,1,$1.00 ,https://www.ebay.com/itm/398357041293?_skw=mpu+6050&itmmeta=01M4K9FB59ENMFSVJ66VQYJ4GS&hash=item5cbfee108d:g:fa8AAeSwd2NqMtOW&itmprp=enc%3AAQALAAAA8CHNgUiiE%2FjQhlDTaMiAde%2Fhvsddoff%2F1udjcbNzuq1jPrOFx4YeTCFXLoLpmd8hQIaYjNTLXd4LuL33iwnGPLh3j%2BKIubbpeJALXnYlkcAWoGFpi6V8zpY8BtWgeXcDVFWjjn09Bnma7GGiIZFbdi5PEcU4tl26vADLJZVu7nyBX%2BuSOPeMAf6x1x9ZRN8kaU8u1dbxpUKInZ1YoP92DSAL1AHqlETB9OCkN0TgUel%2FS9HBw1KUTFNcaBOsaLJq5sWiYSupIhh9ZbJPbWtUcTQhz40KRbpg4Oap4idwkFuHRfWJY6%2FCwm5TQD%2B9CWcbgQ%3D%3D%7Ctkp%3ABk9SR-yyvemkaA,
-DHT11,1,$1.00 ,https://www.amazon.com/DHT-11-Digital-Temperature-Humidity-Arduino/dp/B0CRRXJ83F/ref=sr_1_1?s=industrial&sr=1-1,
-MX Switches,4,$0.00 , https://www.amazon.com//dp/B0FQP8VYX4,Don’t need these as I have a few
-Keycaps,4,$0.00 , https://www.amazon.com/dp/B0CQ2VLMVY,Don’t need these as I have a few
-10k Resistor,1,$0.88 ,https://www.amazon.com/TELESKY-100pcs-Metal-Resistor-1%CE%A9-4-7M%CE%A9/dp/B0CXDZFRHH/ref=sr_1_6?s=industrial&sr=1-6,
-PCB,1,$10.00 ,https://www.jlcpcb.com/,
-,,,,
-Total + tax + shipping,,$30 ,,
