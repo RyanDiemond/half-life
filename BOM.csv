@@ -1,3 +1,18 @@
+Part,Price,Quantity,Link
+XIAO ESP32 C3,$4.99,1,Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,
+DHT11,3.78,1,https://www.amazon.com/DHT-11-Digital-Temperature-Humidity-Arduino/dp/B0CRRXJ83F/ref=sr_1_2?crid=3CXF2JILGK7JR&dib=eyJ2IjoiMSJ9.fjzTt3ZfDnuK6LCpL5FjWCK7UPb1PSQDH8ebQ0eRboOkhKQ39RfdlUNhmm9n1KBQ3RIvBoyld6e_vYUkXKQPrGjSjtmocVwza2abuURPlvX4HOT93V7ehUAn5MGNEuILfbeiek2zCik_e9ZEVgA4BWru0Nu83hPIxN1LtsQHxTLLl4jJc56HS4-kwEyIW_4KUQ5eFgyEhygGVNlQuNQvkLgr9cphDVNsrtUFEWkidxc.CQeF0RWVAj80xUVMsfkgjlmukTBLeOJAI189y9jIQ9g&dib_tag=se&keywords=1pcs+dht11&qid=1791332376&sprefix=1pcs+dht11%2Caps%2C125&sr=8-2,
+Resistor,$0.05,1,https://www.amazon.com/dp/B0B4JFPHTW?th=1),
+Buttons,$0.15,2,https://www.amazon.com/Momentary-Tactile-Switches-Through-Breadboard/dp/B0G5Q9RPJW/ref=sr_1_17?crid=2L4B4NDO6K9WT&dib=eyJ2IjoiMSJ9.tBS_Er4dDBmkg3TGKI34AQ7cYBIoLaWaPDhwpBqYpeR6hFKko3vI0B0rPXZsa-KkqKTOyt8uYEqTRbhf_8gsliZ_uJhAsRNp1lq8880qvFn7krXkdCKLYB3W740YpPK9NQyN1mb4WnRFkHux7GWCD7M_5hbjAsLlQpfFKmQj3AVuYRjQhmpHfn0fHbv9QUaizzbP3BgfbIqWwiX3Mq56ir-YqoR63_97ijduLrVLXos.RKwnZSoIXVHdF74vsdkUhmRnf3aEC2ntsher_hCn0jY&dib_tag=se&keywords=2+key+button+3+pin+cheap&qid=1791334633&sprefix=2+key+button+3+pin+cheap%2Caps%2C146&sr=8-17),
+Display,$6.38,1,https://www.amazon.com/hiBCTR-0-96in-Display-Module-SSD1306/dp/B0GYP25KP4/ref=sr_1_19?crid=VB5FPW5M73Q9&dib=eyJ2IjoiMSJ9.bZr35tiQQESDmlBbMQ75Ho2bLBkSyQAzgjmPdPCSGdoy39ESnp-EuDcxFxSl9ZeqykQDD5RPIsqILaalGuuratGl7TN6Pg6Y7vtyAThZOMub5Xk3nQM3tj-NvW5pprBK4w0GJH8QyuUyP-uhCFuAUd65ci1G1dGRZHslp_o5rM45Y_ZzBx2dKw-YAaZyH7OmdMkTf9XU1SXlO2QVnWoNxQWv8Iz3mpDbOLr9EQYxjgwuZFmj1WEOWbybSyiOaH4hImvGJskDFof1FZTQPOK0pZTUD2VHFYxD_f4qhM2s8eM.A2O9dTyC6cb2sNW68NVqOIVvpmiWzNb3okXGs-Unq2U&dib_tag=se&keywords=Imported+Parts%3ADisplay_128x64_096_I2C&qid=1791335164&sprefix=imported+parts+display_128x64_096_i2c%2Caps%2C176&sr=8-19,
+MPU6050,2.88,1,https://www.amazon.com/2PCS-Soldered-GY-521-MPU6050-Sensor/dp/B0H9LHBN33/ref=sr_1_5?crid=2CTY4OO6VIE5Y&dib=eyJ2IjoiMSJ9.DvrSTG7Ls25OMFKj_dCkmbVBOglHPwodd0iKoSg2ar-YnctHoAph9DrpN4c8iOy99XtBeD1unNX4bah2_-gYkseVEHTF1J5kIVKtRoqNY1_WMS7XY86Ya-S8zfAg0PibF_ylPI7PT_VNBrAMzYTbymfOh_xx709JWsjUgnqXmPaGdPnko6l6n8xa6Yue7ak5JTHqpyZ2vIAZLZnfC3nhMFuoOtRKjfbICDDIgD4cOD0.EudrebrQsxWYllrwBdZ6P6BY6BlLGjx9bCPhtHDQ6Rs&dib_tag=se&keywords=MPU6050+1pc&qid=1791335571&refinements=p_36%3A-700&rnid=386419011&sprefix=mpu6050+1pc%2Caps%2C170&sr=8-5),
+PCB,8.70,1,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791648676740&up_spm=Jlcpcb.Loginpage.1003,
+,,,,
+Total + tax,,$30 ,,
+
+
+
+
+
 Item, amount, cost each in $, Link,Notes
 XIAO ESP32 C3,1,$5 , https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html,
 0.96 OLED,1,$4.43 ,https://www.ebay.com/itm/168756643423?_skw=0.96+Inch+OLED+Display+Module+SSD1306+128x64+Pixel+I2C+IIC+Self-Luminous+Screen+Board+White+Compatible+with+Arduino+Raspberry+Pi&var=468047971824&itmmeta=01M4K9D6NNFDRFJSND7TJNPRB2&hash=item274aae065f:g:MBsAAeSwFY5qwAuw&itmprp=enc%3AAQALAAABYCHNgUiiE%2FjQhlDTaMiAde8Vl6PYEWjH%2F4r1jpTthtXvEJ7JP3PDgVyMjQnzL%2FBGooT1i78jwjH3VDEOfvAwh1%2FCFbu5wvNsacW17x16q9vxudLfxFoLnweLea%2B4onX%2Bgp21US7X7KG90Hy9p7R%2FuFuC3dmDRJoKXDtGXaFVEWZ7K0iAAFHpE07xpd5rcZWu1%2F2w38Tupl1MtJqEeAJkOyqyALLDEynhR89Pu3eIl%2BaxLg%2FiNLLEBssnP1Fx47dvIB9yn3q9v%2F%2BwuStRrhc0NxCFbAk4Ikbe6YIPhQJmLV3m%2FlgTvCbJ8HO6r4AvyPzLy8hhn3RV2HQQ4CgrriGWcC53Ylu%2B1s4YQfK8L3jEjWa0Qv9CYv%2FAFoVJQAL9xfobIOg9R8RPcTk6mPQ7RdTZkTwY2uqrpPLJLEOOKaOJK78UjVTdC7bIN%2FFC7x%2BMRq00b6sE1IEdiDMU47fprfPF6aM%3D%7Ctkp%3ABk9SR4brtOmkaA,
