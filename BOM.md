@@ -20,7 +20,7 @@
 | [MPU6050](https://www.amazon.com/s?k=MPU6050+1pc&crid=28GRM8VDMLPMM&qid=1791771844&rnid=386419011&sprefix=mpu6050+1pc%2Caps%2C224&ref=sr_nr_p_36_0_0&low-price=&high-price=7) | Sensor that detects movement | 1 | $2.19 | $2.19 | [Amazon](https://www.amazon.com/s?k=MPU6050+1pc&crid=28GRM8VDMLPMM&qid=1791771844&rnid=386419011&sprefix=mpu6050+1pc%2Caps%2C224&ref=sr_nr_p_36_0_0&low-price=&high-price=7) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791648676740&up_spm=Jlcpcb.Loginpage.1003) | the PCB/main board | 1 | $8.70 | $8.70 | [jlcpcb](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791648676740&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$37.00** | — |
-| **Tax & shipping** | — | — | — | **$33.08** | — |
-| **Total** | — | — | — | **$70.08** | — |
+| **Tax & shipping** | — | — | — | **$32.75** | — |
+| **Total** | — | — | — | **$69.75** | — |
 
-**$40.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$39.75 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
