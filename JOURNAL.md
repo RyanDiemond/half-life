@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12h | 2 |
+| Week 1 | Tier 1 | 13h | 2 |
 
 ## Contents
 
@@ -47,11 +47,15 @@ Next, I built the actual PCB by making the shape for the PCB, then I organized t
 
 ### 2026-10-11 – After I made my PCB, I started to put information in my README.md to show the steps of how I made my PCB and my progress in making it.
 
-**4h**
+**5h**
 
 After I made my PCB, I started to put information in my README.md to show the steps of how I made my PCB and my progress in making it.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/0cbda676f52cc9bb293ea6a97960cb9b3005909329f544041f21a10702967a88.png)
+
+I made a Gerber file so I could then export my PCB to a manufacturer and get my actual PCB board.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/8c990a5196a432ccc1d6685aafc2f541da194bee298bccde1d709d56467143a1.png)
 
 After, I started putting in my items needed to make the project, how much it cost and the vendor you can get it from.
 
