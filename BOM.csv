@@ -1,9 +1,9 @@
 Part,Price,Quantity,Link
 XIAO ESP32 C3,4.99,1,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
 DHT11,3.78,1,https://www.amazon.com/DHT-11-Digital-Temperature-Humidity-Arduino/dp/B0CRRXJ83F
-Resistor,0.05,1,https://www.amazon.com/dp/B0B4JFPHTW?th=1
-Buttons,0.15,2,https://www.amazon.com/Momentary-Tactile-Switches-Through-Breadboard/dp/B0G5Q9RPJW
-Display,6.38,1,https://www.amazon.com/hiBCTR-0-96in-Display-Module-SSD1306/dp/B0GYP25KP4
-MPU6050,2.88,1,https://www.amazon.com/2PCS-Soldered-GY-521-MPU6050-Sensor/dp/B0H9LHBN33
+Resistor,3.99,1,https://www.amazon.com/gp/product/B0BRKMHRVP/ref=ox_sc_act_image_2?smid=A2XLLJ8HYD6SMA&th=1
+Buttons,5.99,1,https://www.amazon.com/Momentary-Tactile-Switches-Through-Breadboard/dp/B0G5Q9RPJW
+Display,4.99,1,https://www.amazon.com/gp/product/B0FM3K7L92/ref=ox_sc_act_image_1?smid=A23YDYH2AP2C8X&psc=1
+MPU6050,2.19,1,https://www.amazon.com/gp/product/B076QKV8NT/ref=ox_sc_act_image_3?smid=A1T1O8JLPMJM1V&psc=1
 PCB,8.70,1,https://cart.jlcpcb.com/quote
 Total + tax + shipping,,30.00,
