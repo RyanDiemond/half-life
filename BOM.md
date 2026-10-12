@@ -20,7 +20,7 @@
 | [MPU6050](https://www.amazon.com/2PCS-Soldered-GY-521-MPU6050-Sensor/dp/B0H9LHBN33/ref=sr_1_5?crid=2CTY4OO6VIE5Y&dib=eyJ2IjoiMSJ9.DvrSTG7Ls25OMFKj_dCkmbVBOglHPwodd0iKoSg2ar-YnctHoAph9DrpN4c8iOy99XtBeD1unNX4bah2_-gYkseVEHTF1J5kIVKtRoqNY1_WMS7XY86Ya-S8zfAg0PibF_ylPI7PT_VNBrAMzYTbymfOh_xx709JWsjUgnqXmPaGdPnko6l6n8xa6Yue7ak5JTHqpyZ2vIAZLZnfC3nhMFuoOtRKjfbICDDIgD4cOD0.EudrebrQsxWYllrwBdZ6P6BY6BlLGjx9bCPhtHDQ6Rs&dib_tag=se&keywords=MPU6050+1pc&qid=1791335571&refinements=p_36%3A-700&rnid=386419011&sprefix=mpu6050+1pc%2Caps%2C170&sr=8-5) | Sensor that detects movement | 1 | $5.76 | $5.76 | [Amazon](https://www.amazon.com/2PCS-Soldered-GY-521-MPU6050-Sensor/dp/B0H9LHBN33/ref=sr_1_5?crid=2CTY4OO6VIE5Y&dib=eyJ2IjoiMSJ9.DvrSTG7Ls25OMFKj_dCkmbVBOglHPwodd0iKoSg2ar-YnctHoAph9DrpN4c8iOy99XtBeD1unNX4bah2_-gYkseVEHTF1J5kIVKtRoqNY1_WMS7XY86Ya-S8zfAg0PibF_ylPI7PT_VNBrAMzYTbymfOh_xx709JWsjUgnqXmPaGdPnko6l6n8xa6Yue7ak5JTHqpyZ2vIAZLZnfC3nhMFuoOtRKjfbICDDIgD4cOD0.EudrebrQsxWYllrwBdZ6P6BY6BlLGjx9bCPhtHDQ6Rs&dib_tag=se&keywords=MPU6050+1pc&qid=1791335571&refinements=p_36%3A-700&rnid=386419011&sprefix=mpu6050+1pc%2Caps%2C170&sr=8-5) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791648676740&up_spm=Jlcpcb.Loginpage.1003) | the PCB/main board | 1 | $8.70 | $8.70 | [jlcpcb](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791648676740&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$41.57** | — |
-| **Tax & shipping** | — | — | — | **$46.87** | — |
-| **Total** | — | — | — | **$88.44** | — |
+| **Tax & shipping** | — | — | — | **$46.18** | — |
+| **Total** | — | — | — | **$87.75** | — |
 
-**$58.44 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$57.75 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
