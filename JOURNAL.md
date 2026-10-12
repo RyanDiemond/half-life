@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11h | 2 |
+| Week 1 | Tier 1 | 12h | 2 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ Next, I built the actual PCB by making the shape for the PCB, then I organized t
 
 ### 2026-10-11 – After I made my PCB, I started to put information in my README.md to show the steps of how I made my PCB and my progress in making it.
 
-**3h**
+**4h**
 
 After I made my PCB, I started to put information in my README.md to show the steps of how I made my PCB and my progress in making it.
 
@@ -56,6 +56,10 @@ After I made my PCB, I started to put information in my README.md to show the st
 After, I started putting in my items needed to make the project, how much it cost and the vendor you can get it from.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/4bdecd62d1d8b0c16cb25f874600a77e5bee555239918e6aff40761fbd02096d.png)
+
+I made my own CSV for the prices of my items.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/0f7b92f2f5b9e333332e7ac720dd411b39bf36df35f1e31f54de817bd8c3ccc8.png)
 
 These are all the files that I made/ added that were made when I did my work.
 
