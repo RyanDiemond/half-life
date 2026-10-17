@@ -4,13 +4,13 @@
 <!-- Generated: 2026-10-12T01:06:06.491Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuws36oy0a8m01os816k8asc). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 13h | 2 |
+| Week 1 | Tier 1 | 15h | 2 |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### 2026-10-11 – I started by building a schematic for my starbie. It was my first one, so it took me a minute to understand what I was doing, but I just had to drag out components, place them, and connect them.
 
-**8h**
+**10h**
 
 I started by building a schematic for my starbie. It was my first one, so it took me a minute to understand what I was doing, but I just had to drag out components, place them, and connect them.
 
@@ -43,7 +43,11 @@ Next, I built the actual PCB by making the shape for the PCB, then I organized t
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/717ca2211c445711afeaad845fa556095e0a691b5ac3714b0ae527ca2861b721.png)
 
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/9cbc64ca0b696a1bca5ccfeb08c257f6fac6b9b56d1dc5635ec74e60baa16475.png)
+
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/2e467a7c923a31cc0743d7cc96ba53b719e0144fbe2c7db0d1896236d00b5cfc.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/CKgJHytMaNCHYkOsQBHmXLQkfNl69TFO/ebcbfeff99d6ab95d8f5482847f2648c6750056b96f853d057b960566c5625c2.png)
 
 ### 2026-10-11 – After I made my PCB, I started to put information in my README.md to show the steps of how I made my PCB and my progress in making it.
 
