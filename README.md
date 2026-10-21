@@ -1,9 +1,4 @@
-<img width="1092" height="527" alt="image" src="https://github.com/user-attachments/assets/dfca55a2-fda3-4fc3-a70e-7a974f5e58dc" />
-
-
-
-
-![image alt](https://github.com/RyanDiemond/half-life/blob/main/Screenshot%202026-10-06%20193440.png?raw=true)
+https://github.com/RyanDiemond/half-life/blob/main/Assets/extra%20things/Screenshot%202026-10-11%20050352.png
 
 The code:
 
