@@ -1,5 +1,5 @@
 # HalfLife-Week1
-
+<h1 This is my Starbie project for Hack club Half Life. It is a motion controlled digital physical desk pet. h1>
 
 
 
