@@ -1,6 +1,6 @@
 # HalfLife-Week1
 <h1> This is my Starbie project for Hack club Half Life. It is a motion controlled digital physical desk pet. </h1>
-
+<h2> Starbie is a motion-controlled digital desk pet with a climate sensor, motion sensor, screen, and two buttons for input which will be programmed on the Arduino IDE.</h2>
 
 
 
