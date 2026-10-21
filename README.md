@@ -18,3 +18,10 @@ The PCB layers:
 
 
 https://github.com/RyanDiemond/half-life/blob/main/Assets/gerber.zip
+
+
+
+BOM:
+
+
+<img width="1257" height="715" alt="image" src="https://github.com/user-attachments/assets/ed82f73f-0a48-4520-ad9f-f29352877dea" />
