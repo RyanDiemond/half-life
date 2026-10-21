@@ -17,4 +17,5 @@
 | MPU6050 | $2.19 | Detects movement |
 | PCB | $8.70 | The main board that makes all connections |
 |Tax and shipping|$32.61||
+||$67.24||
 
