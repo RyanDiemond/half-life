@@ -1,5 +1,3 @@
-<img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/fae1101a-9215-44dd-a896-5d3ae9f0e69f" />
-
 
 <img width="1047" height="802" alt="image" src="https://github.com/user-attachments/assets/c1bac168-f9b5-4a7e-b537-9dd563eaa088" />
 
@@ -13,7 +11,7 @@ The code:
 
 The schematic:
 
-https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch
+[https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch](https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch)
 
 The PCB layers:
 
