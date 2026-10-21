@@ -1,4 +1,4 @@
-https://github.com/RyanDiemond/half-life/blob/main/Assets/extra%20things/Screenshot%202026-10-11%20050352.png
+
 
 The code:
 
