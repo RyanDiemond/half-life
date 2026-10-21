@@ -9,7 +9,7 @@
 
 | Part | Cost (total) | Need |
 | :--- | :--- | :--- |
-| ESP32 C3 Mini WiFi | $6.99 | the actual circuit |
+| XIAO ESP32 C3 | $4.99 | The microcontroller (how all actions and decisons are made) |
 | Mechanical Switches | $5.00 | button press input |
 | SSD1306 OLED Screen | $5.99 | display inputs and outputs |
 | DHT11 sensor | $4.75 | climate sensor |
