@@ -19,3 +19,4 @@
 |Tax and shipping|$32.61||
 ||$67.24||
 
+I am using tier two for this project because of how much the tax and shipping is.
