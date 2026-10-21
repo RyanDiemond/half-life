@@ -17,3 +17,4 @@ The schematic:
 The PCB layers:
 
 
+https://github.com/RyanDiemond/half-life/blob/main/Assets/gerber.zip
