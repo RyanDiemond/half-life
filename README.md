@@ -11,7 +11,7 @@ The code:
 
 The schematic:
 
-[https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch](https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch)
+https://github.com/RyanDiemond/half-life/blob/main/starbie%20schematic.kicad_sch
 
 The PCB layers:
 
