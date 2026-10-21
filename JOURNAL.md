@@ -6,11 +6,11 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuws36oy0a8m01os816k8asc). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
+> A tiny motion-controlled digital pet designed to live on your desktop. This little companion reacts to your movements, wiggles around with playful animations, and expresses its mood through adorable pixel-art faces. It loves attention, gets curious when you move your device, and has a personality that grows the more you interact with it. Small, mysterious, and effortlessly cool, it's the perfect little digital buddy to keep you company while you work or play.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15h | 2 |
+| Week 1 | Tier 2 | 15h | 2 |
 
 ## Contents
 
