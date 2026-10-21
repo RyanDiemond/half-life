@@ -10,8 +10,11 @@
 | Part | Cost (total) | Need |
 | :--- | :--- | :--- |
 | XIAO ESP32 C3 | $4.99 | The microcontroller (how all actions and decisons are made) |
-| Mechanical Switches | $5.00 | button press input |
-| SSD1306 OLED Screen | $5.99 | display inputs and outputs |
-| DHT11 sensor | $4.75 | climate sensor |
-| 2N3904 transistors | $7.00 | transisting |
+| DHT11 | $3.78 | climate sensor |
+| Resistor | $3.99 | Controls how much power goes through the board at a time |
+| buttons | $5.99 | Allows for inputs |
+| Display screen | $4.99 | Displays inputs and outputs |
+| MPU6050 | $2.19 | Detects movement |
+| PCB | $8.70 | The main board that makes all connections |
+||||
 
