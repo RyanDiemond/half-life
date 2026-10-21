@@ -9,7 +9,7 @@
 
 The code:
 
-https://github.com/RyanDiemond/half-life/blob/main/Starbie.ino
+[https://github.com/RyanDiemond/half-life/blob/main/Starbie.ino](https://github.com/RyanDiemond/half-life/blob/main/Assets/Starbie.ino)
 
 The schematic:
 
