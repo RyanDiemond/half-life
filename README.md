@@ -4,6 +4,9 @@
 <img width="1047" height="802" alt="image" src="https://github.com/user-attachments/assets/c1bac168-f9b5-4a7e-b537-9dd563eaa088" />
 
 
+<img width="612" height="517" alt="image" src="https://github.com/user-attachments/assets/b50eb55c-19de-4f6a-af91-d336aaf2d1d5" />
+
+
 The code:
 
 https://github.com/RyanDiemond/half-life/blob/main/Starbie.ino
