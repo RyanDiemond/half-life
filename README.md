@@ -1,6 +1,8 @@
 # HalfLife-Week1:
 <h1> This is my Starbie project for Hack club Half Life. It is a motion controlled digital physical desk pet. </h1>
 <h3> Starbie is a motion-controlled digital desk pet with a climate sensor, motion sensor, screen, and two buttons for input which will be programmed on the Arduino IDE.</h3>
+
+This is my schematic; I have a XIAO ESP32 C3 board, two buttons, dht11 sensor, display screen, mpu6050, and a resistor. The schematic also shows how all the wiring is connected.
 <img width="1261" height="510" alt="image" src="https://github.com/user-attachments/assets/87bb5204-7bb4-4262-aa35-cd007581fcbb" />
 <img width="1047" height="802" alt="image" src="https://github.com/user-attachments/assets/c1bac168-f9b5-4a7e-b537-9dd563eaa088" />
 <img width="612" height="517" alt="image" src="https://github.com/user-attachments/assets/b50eb55c-19de-4f6a-af91-d336aaf2d1d5" />
